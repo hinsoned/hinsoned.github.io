@@ -14,13 +14,13 @@ SO FAR:
     - KTC music video
     - Add Spotify link to Umbreon
     - Add social media links to bottom (LinkedIn, GitHub, Instagram)
+    - Use GitHub for hosting
 
 TO DO:
     - Add youtube channel link
     - Email enable website
     - Add spotify link to KTC
     - Get Domain
-    - Use GitHub for hosting
     - Change banner to custom video
         - Create custom video
         - Add banner to site
