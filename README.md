@@ -15,12 +15,16 @@ SO FAR:
     - Add Spotify link to Umbreon
     - Add social media links to bottom (LinkedIn, GitHub, Instagram)
     - Use GitHub for hosting
+    - Add youtube channel link
+    - Get Domain
+    - Host website (github pages)
+    - Website live
+    - Change main font: This tutorial https://www.youtube.com/watch?v=g15mF_XAOB8
+        - Import external font
 
 TO DO:
-    - Add youtube channel link
     - Email enable website
     - Add spotify link to KTC
-    - Get Domain
     - Change banner to custom video
         - Create custom video
         - Add banner to site
