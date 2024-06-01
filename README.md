@@ -29,4 +29,15 @@ TO DO:
         - Create custom video
         - Add banner to site
     - Adjust CSS to change colors
+        - https://www.youtube.com/watch?v=KMS3VwGh3HY
+        - https://mycolor.space/
+        - https://coolors.co/palettes/trending
+        - https://www.youtube.com/watch?v=BdJTnYqhaZQ
+        - https://www.youtube.com/watch?v=yYwEnLYT55c
+        - https://huemint.com/website-1/
     - Create coding projects to post on websites then link to those sites.
+    - Add more boxes with project links
+    - Compare to other personal software dev websites
+    - Change website name in HTML
+    - Change website symbol in browser
+    - Create a branch for website color changes
