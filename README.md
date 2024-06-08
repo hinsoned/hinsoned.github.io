@@ -21,6 +21,7 @@ SO FAR:
     - Website live
     - Change main font: This tutorial https://www.youtube.com/watch?v=g15mF_XAOB8
         - Import external font
+    - Change website symbol in browser (favicon)
 
 TO DO:
     - Email enable website
@@ -39,5 +40,4 @@ TO DO:
     - Add more boxes with project links
     - Compare to other personal software dev websites
     - Change website name in HTML
-    - Change website symbol in browser
     - Create a branch for website color changes
