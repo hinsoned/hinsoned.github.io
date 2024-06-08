@@ -22,6 +22,10 @@ SO FAR:
     - Change main font: This tutorial https://www.youtube.com/watch?v=g15mF_XAOB8
         - Import external font
     - Change website symbol in browser (favicon)
+    - Add box shadows to content boxes
+    - color changes for background and buttons
+    - add fade ins for boxes
+    - add button animations
 
 TO DO:
     - Email enable website
@@ -40,4 +44,3 @@ TO DO:
     - Add more boxes with project links
     - Compare to other personal software dev websites
     - Change website name in HTML
-    - Create a branch for website color changes

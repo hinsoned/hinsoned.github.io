@@ -550,7 +550,23 @@
 		background: #7A7D7D;
 		text-align: center;
 		font-family: "Oswald", sans-serif;
+		box-shadow: 3px 3px 15px black;
+		animation: fade 1.5s ease-in 0s;
+		/*
+		come back to this resize thing
+		overflow: auto;
+		resize: both;
+		*/
 	}
+		@keyframes fade {
+			0%{
+				opacity: 0;
+			}
+			100%{
+				opacity: 1;
+			}
+
+		}
 
 		.box > :last-child,
 		.box > :last-child > :last-child,
@@ -953,6 +969,7 @@
 		text-align: center;
 		text-decoration: none;
 		white-space: nowrap;
+		transition: transform 0.5s;
 	}
 
 		input[type="submit"]:hover,
@@ -962,6 +979,8 @@
 		.button:hover {
 			/*background-color: #82cec6;*/
 			background-color: #3864BC;
+			transform: translateY(-0.25em);
+			transition: transform 0.1s;
 			
 		}
 
