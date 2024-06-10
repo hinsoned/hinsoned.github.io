@@ -23,16 +23,6 @@ SO FAR:
         - Import external font
     - Change website symbol in browser (favicon)
     - Add box shadows to content boxes
-    - color changes for background and buttons
-    - add fade ins for boxes
-    - add button animations
-
-TO DO:
-    - Email enable website
-    - Add spotify link to KTC
-    - Change banner to custom video
-        - Create custom video
-        - Add banner to site
     - Adjust CSS to change colors
         - https://www.youtube.com/watch?v=KMS3VwGh3HY
         - https://mycolor.space/
@@ -40,7 +30,17 @@ TO DO:
         - https://www.youtube.com/watch?v=BdJTnYqhaZQ
         - https://www.youtube.com/watch?v=yYwEnLYT55c
         - https://huemint.com/website-1/
+    - add fade ins for boxes
+    - add button animations
+    - Change website name in HTML
+
+TO DO:
+    - Email enable website
+    - Add spotify link to KTC
+    - Change banner to custom video
+        - Create custom video
+        - Add banner to site
     - Create coding projects to post on websites then link to those sites.
     - Add more boxes with project links
+        - Use git branch https://www.youtube.com/watch?v=Q1kHG842HoI
     - Compare to other personal software dev websites
-    - Change website name in HTML
