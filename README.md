@@ -33,6 +33,9 @@ SO FAR:
     - add fade ins for boxes
     - add button animations
     - Change website name in HTML
+        - Add picture of self to website
+        - Create separate box
+        - Use git branch https://www.youtube.com/watch?v=Q1kHG842HoI
 
 TO DO:
     - Email enable website
@@ -43,4 +46,7 @@ TO DO:
     - Create coding projects to post on websites then link to those sites.
     - Add more boxes with project links
         - Use git branch https://www.youtube.com/watch?v=Q1kHG842HoI
+        - Add project 1 (flash card web app?)
+        - Add project 2
+    - Add resume to website
     - Compare to other personal software dev websites
